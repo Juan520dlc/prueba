@@ -44,7 +44,7 @@ Este es un proyecto web desarrollado con **React** y **Tailwind CSS** para el fr
 4. Inicia el backend (servidor Express):
     ```bash
     cd taller-backend
-    npm start
+    npm run dev
     ```
 
 5. Inicia el frontend (aplicación React):
