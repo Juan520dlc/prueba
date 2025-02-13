@@ -1,0 +1,16 @@
+[
+  {
+    "placa": "P000AAA",
+    "marca": "Toyota",
+    "modelo": "Corolla",
+    "año": "2020",
+    "descripcion": "Toyota Corolla 2020, sedán compacto con motor 1.8L de 4 cilindros, 139 hp, y transmisión manual de 6 velocidades o CVT automática. Tracción delantera (FWD) y rendimiento de 31 mpg en ciudad / 38 mpg en carretera. Equipado con Toyota Safety Sense 2.0, control de crucero adaptativo, asistente de mantenimiento de carril y frenos automáticos. Cuenta con pantalla táctil de 7-8” y compatibilidad con Apple CarPlay y Android Auto. Capacidad para 5 pasajeros y tanque de 50L"
+  },
+  {
+    "placa": "P001BBB",
+    "marca": "Honda ",
+    "modelo": "Civic ",
+    "año": "2021",
+    "descripcion": "Sedán compacto con motor 2.0L de 4 cilindros, 158 hp, y transmisión manual de 6 velocidades o CVT automática. Tracción delantera (FWD) y rendimiento de 30 mpg en ciudad / 38 mpg en carretera. Equipado con Honda Sensing, control de crucero adaptativo, asistente de mantenimiento de carril y frenado automático. Cuenta con pantalla táctil de 7” y compatibilidad con Apple CarPlay y Android Auto. Capacidad para 5 pasajeros y tanque de 46L."
+  }
+]
